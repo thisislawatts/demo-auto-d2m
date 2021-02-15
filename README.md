@@ -3,9 +3,6 @@ demo-auto-d2m
 
 This repo requires changes to be merged to `main` via `develop`. 
 
-
-This repo requires changes to be merged to main via develop.
-
 The process is:
 
 1. Create a Feature branch and raise PR
